@@ -1,0 +1,9 @@
+.BankListContainer {
+  padding: 15px;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 24px !important;
+  color: #306b99;
+}

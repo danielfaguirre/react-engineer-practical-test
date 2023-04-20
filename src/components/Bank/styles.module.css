@@ -1,0 +1,20 @@
+.bankContainer {
+  cursor: pointer;
+  height: 130px;
+  padding: 5px;
+}
+
+.bankCard {
+  background-color: #89b5d6 !important;
+  height: 100%;
+  text-align: center;
+}
+
+.bankCard:hover {
+  background-color: #306b99 !important;
+  color: #e6e6e6 !important;
+}
+
+.title {
+  margin-bottom: 12px;
+}
